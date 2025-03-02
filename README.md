@@ -21,6 +21,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Screenshot][Screenshot]](https://r2.interrupted.me/%F0%9F%92%8E/screenshot.png)
+![Screenshot](https://r2.interrupted.me/%F0%9F%92%8E/owner9953-pages-dev-screenshot-3-2-2025.png)
 
 This is this Official Portfolio of Owner aka Owner9953!
