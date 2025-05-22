@@ -55,7 +55,7 @@
   --------------------------------------------------------------*/
   function preloader() {
     $('.cs_preloader').fadeOut();
-    $('cs_preloader_in').delay(150).fadeOut('slow');
+    $('.cs_preloader_in').delay(150).fadeOut('slow');
   }
 
   /*--------------------------------------------------------------
@@ -327,7 +327,6 @@
     });
 
     // Add smooth scrolling to all scrollable elements
-    $('html').css('scroll-behavior', 'smooth');
     
     // Custom easing function
     $.easing.easeInOutExpo = function(x) {
